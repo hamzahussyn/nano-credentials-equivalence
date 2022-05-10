@@ -6,3 +6,4 @@
 !text_mining.py
 !labels.py
 !course-classifier-nce.h5
+!course_outline_vectorizer.pickel
